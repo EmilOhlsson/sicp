@@ -8,3 +8,8 @@ Run REPL with
 ```
 racket -l sicp --repl
 ```
+
+Language server
+```
+raco pkg install racket-langserver
+```
